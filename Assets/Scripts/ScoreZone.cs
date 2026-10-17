@@ -7,6 +7,10 @@ public class ScoreZone : MonoBehaviour
     private Collider2D birdCollider;
     private Collider2D[] pipeColliders;
 
+    // Scoring sound effect
+    public AudioClip scoreSound;
+    private AudioSource audioSource;
+
     private void Start()
     {
         GameObject bird = GameObject.FindGameObjectWithTag("Player");
@@ -14,6 +18,7 @@ public class ScoreZone : MonoBehaviour
         if (bird != null)
         {
             birdCollider = bird.GetComponent<Collider2D>();
+            audioSource = bird.GetComponent<AudioSource>();
         }
 
         pipeColliders = transform.parent.GetComponentsInChildren<Collider2D>();
@@ -49,6 +54,12 @@ public class ScoreZone : MonoBehaviour
             if (GameManager.Instance != null)
             {
                 GameManager.Instance.AddScore();
+
+                // Play the scoring sound
+                if (audioSource != null && scoreSound != null)
+                {
+                    audioSource.PlayOneShot(scoreSound);
+                }
             }
         }
     }

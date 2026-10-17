@@ -91,6 +91,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1f537c97f4759cc4d9c39ca6a02e70eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScoreZone
+  scoreSound: {fileID: 8300000, guid: c903f8a1161c3a241ad3ec1aabea8e21, type: 3}
 --- !u!1 &3950493922043744321
 GameObject:
   m_ObjectHideFlags: 0
