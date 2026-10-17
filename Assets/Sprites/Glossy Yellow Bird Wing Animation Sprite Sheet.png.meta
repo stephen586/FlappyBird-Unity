@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 43d63bd1fa56caf4daa734d8fde77794
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5154186789005645074
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_0
+  - first:
+      213: 2907065701893980140
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_1
+  - first:
+      213: -4236895671187608392
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_2
+  - first:
+      213: -2042874401571862403
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_3
+  - first:
+      213: 8793409870106674676
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_4
+  - first:
+      213: -1959717745670977133
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_5
+  - first:
+      213: -3149881431074662127
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_6
+  - first:
+      213: 432214003115213266
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_7
+  - first:
+      213: -3492014822907447773
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_8
+  - first:
+      213: 1216083150645082127
+    second: Glossy Yellow Bird Wing Animation Sprite Sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 731
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 12, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaae476c66a878b0800000000000000
+      internalID: -5154186789005645074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 55
+        width: 177
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefbc148ad8f75820800000000000000
+      internalID: 2907065701893980140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 57
+        width: 173
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce878c5d58335c0800000000000000
+      internalID: -4236895671187608392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78029d2e8046a3e0800000000000000
+      internalID: -2042874401571862403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 111
+        width: 700
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 33, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f54f18ffa7780a70800000000000000
+      internalID: 8793409870106674676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 53
+        width: 379
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3998045e71fadc4e0800000000000000
+      internalID: -1959717745670977133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 110
+        width: 700
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 26, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191238f68f5944d0800000000000000
+      internalID: -3149881431074662127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 55
+        width: 183
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1c1aa88588ff500800000000000000
+      internalID: 432214003115213266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 57
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326f332250fd98fc0800000000000000
+      internalID: -3492014822907447773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glossy Yellow Bird Wing Animation Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 49
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b983be2560e010800000000000000
+      internalID: 1216083150645082127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 07286badd47f98d42ac287aa93d013c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glossy Yellow Bird Wing Animation Sprite Sheet_0: -5154186789005645074
+      Glossy Yellow Bird Wing Animation Sprite Sheet_1: 2907065701893980140
+      Glossy Yellow Bird Wing Animation Sprite Sheet_2: -4236895671187608392
+      Glossy Yellow Bird Wing Animation Sprite Sheet_3: -2042874401571862403
+      Glossy Yellow Bird Wing Animation Sprite Sheet_4: 8793409870106674676
+      Glossy Yellow Bird Wing Animation Sprite Sheet_5: -1959717745670977133
+      Glossy Yellow Bird Wing Animation Sprite Sheet_6: -3149881431074662127
+      Glossy Yellow Bird Wing Animation Sprite Sheet_7: 432214003115213266
+      Glossy Yellow Bird Wing Animation Sprite Sheet_8: -3492014822907447773
+      Glossy Yellow Bird Wing Animation Sprite Sheet_9: 1216083150645082127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
